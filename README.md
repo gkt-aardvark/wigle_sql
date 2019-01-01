@@ -4,9 +4,9 @@ Just some simple utilities to pull data from wigle sqlite databases
 These two utilities do the following:
 
 wigle_pull.py:	
-			- performs a SQL query on as many wiglewifi databases you have in the specified folder.
-			- I have many phones that I use to wardrive, so I end up with many databases.
-			- This outputs the results to the file you specify in the code in TSV format.
+		- performs a SQL query on as many wiglewifi databases you have in the specified folder.
+		- I have many phones that I use to wardrive, so I end up with many databases.
+		- This outputs the results to the file you specify in the code in TSV format.
 
 wigle_sql.py: 
 		- performs a SQL query on a running Android phone with Wigle Wardriving installed.
