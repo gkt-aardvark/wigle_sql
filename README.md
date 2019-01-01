@@ -1,4 +1,4 @@
-# wigle_sql
+```# wigle_sql
 Just some simple utilities to pull data from wigle sqlite databases
 
 These two utilities do the following:
@@ -15,4 +15,4 @@ wigle_sql.py:
 			- stages a sql command file in /data/local/tmp and queries the /sdcard/wiglewifi/wiglewifi.sqlite db
 			- outputs the results to a csv, also in /data/local/tmp
 			- pulls that file to local system with adb pull
-			- deletes the output.csv from /data/local/tmp
+			- deletes the output.csv from /data/local/tmp```
